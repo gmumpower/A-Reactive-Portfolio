@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# A-Reactive-Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## Visualization
+![reactport1](https://user-images.githubusercontent.com/60993926/171228127-c51fd595-85ba-41b2-954a-045b3ff3e745.png)
+![reactport2](https://user-images.githubusercontent.com/60993926/171228140-2c88460b-72e6-488a-a664-081a4bdcf034.png)
+![reactport3](https://user-images.githubusercontent.com/60993926/171228148-b9ae5093-5bc9-44f9-bf2c-18577c02ff04.png)
+![reactport4](https://user-images.githubusercontent.com/60993926/171228155-97f08bcc-77f5-4389-a510-98ce1e7723b9.png)
 
 ### `npm start`
 
