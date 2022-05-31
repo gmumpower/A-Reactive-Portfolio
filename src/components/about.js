@@ -6,7 +6,7 @@ function About() {
   return (
     <div>
       <p className="content is-medium">Full Stack Developer</p>
-      <hr />
+      <hr/>
       <img className="my-pic" src={process.env.PUBLIC_URL + gavinProfile } alt="GavinPro"/>
       <p className="content is-italic mt-4">
       Hi, I'm Gavin
